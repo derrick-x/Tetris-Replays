@@ -14,6 +14,9 @@ pentag
 3Pentag
 3Pentag
 3Pentag
+2Pentag
+1Pentag
+0Pentag
 
 Keybind 722202264055447643
 6c
