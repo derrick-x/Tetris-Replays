@@ -1,0 +1,104 @@
+3
+g]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghpgg$%#(~0~0~~2? Akolom
+f^gggg]ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpggggqggg$%#(~0~0~~2? Akolom
+g]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghpgg$%#(~0~0~~3? Akolom
+gf^gggg]ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpggggqgg$%#(~0~0~~3? Akolom
+gg]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghpg$%#(~0~0~~3? Akolom
+ggf^gggg]ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpggggqg$%#(~0~0~~3? Akolom
+ggg]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~0~0~~3? Akolom
+gggggggg]ggggf^ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~1~0~~1? Akolom
+ggggggggggggg]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~2~0~~1? Akolom
+gggggggggggggggggg]ggggf^ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~3~0~~1? Akolom
+ggggggggggggggggggggggg]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~4~0~~1? Akolom
+gggggggggggggggggggggggfgggg]gggg^gggggggggggggggggggggggggggggggggggggggggggggggggggggghggggqggggpg$%#(~4~0~~5? Akolom
+ggggggggggggggggggggggg]ggggf^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgggghp$%#(~4~0~~4? Akolom
+gg?gggg?ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggq]gggqf^%#&(~32~0~~0? Akolom
+gcCgggcCggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghp]gghpf^%#&(~32~0~~2Tiagololz
+g?gggg?ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqg]ggqgf^%#&(~32~0~~2Tiagololz
+cCgggcCggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpg]ghpgf^%#&(~32~0~~2Tiagololz
+?gggg?ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqgg]gqggf^%#&(~32~0~~2Tiagololz
+ggIgggdLgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg?gq]g?hpf^#&!(~68~0~~0Tiagololz
+ggdLgggIggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpg?gq]g?ggf^#&!(~68~0~~3? Akolom
+gggIgggdLggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqggghpg?gg]g?ggf^#&!(~68~0~~3? Akolom
+gggdLgggIgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpgggqg?gg]g?ggf^#&!(~68~0~~3? Akolom
+gggLggggIggggdggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggggqgggghg?gg]g?ggf^#&!(~68~0~~5? Akolom
+gggdggggdLggggLgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghgggghp?gg]p?ggf^#&!(~68~0~~3? Akolom
+ggggLggggIggggdggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggp?gg]q?ggf_#&!(~68~0~~3? Akolom
+ggbgggb5gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggL?gh]I?hqf[&!"(~102~0~~0? Akolom
+gg:ggg5:gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggL?gp]I?qpf[&!"(~102~0~~2Tiagololz
+gbggggbggggb:ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghggL?hg]I?hpf[&!"(~102~0~~4Tiagololz
+g:gggg:gggg5ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggL?pg]I?qgf[&!"(~102~0~~2Tiagololz
+bggggbggggb:ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghgggghgggghpggL?gg]I?ggf[&!"(~102~0~~2Tiagololz
+:gggg:gggg5ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggggpggggqgggL?gg]I?ggf[&!"(~102~0~~2Tiagololz
+ggUgggeSggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~132~0~~0Tiagololz
+gggggggUgggeSgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~133~0~~1? Akolom
+ggggggggggggUgggeSggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~134~0~~1? Akolom
+gggggggggggggggggUgggeSgggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~135~0~~1? Akolom
+ggggggggggggggggggggggUgggeSggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~136~0~~1? Akolom
+gggggggggggggggggggggggggggUgggeSgggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~137~0~~1? Akolom
+ggggggggggggggggggggggggggggggggUgggeSggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~138~0~~1? Akolom
+gggggggggggggggggggggggggggggggggggggUgggeSgggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~139~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggUgggeSggggggggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~140~0~~1? Akolom
+gggggggggggggggggggggggggggggggggggggggggggggggUgggeSgggggggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~141~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggUgggeSggggggggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~142~0~~1? Akolom
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggUgggeSgggggggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~143~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggUgggeSggggggg:gggg:gggg5gggL?gp]I?hqf[!"%(~144~0~~1? Akolom
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggUgggeSgg:gggg:gggg5gggL?gp]I?hqf[!"%(~145~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggUgg:eSgg:gggg5gggL?gp]I?hqf[!"%(~146~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gUgg:eSgg5gggL?gp]I?hqf[!"%(~147~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gUgg5eSgL?gp]I?hqf[!"%(~148~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gUgL?eS]I?hqf[!"%(~149~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?gU]I?eSf[!"%(~150~0~~1? Akolom
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gggL?ge]I?gST[!"%(~150~0~~3? Akolom
+gggggg`!(gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5hqpL?ge]I?gST["%"(~150~0~~0? Akolom
+ggggggg!!gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:gggg5gqqL?ge]I?gST["%"(~150~0~~3Tiagololz
+ggggggg`!(ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:ghqp5gggL?ge]I?gST["%"(~150~0~~3Tiagololz
+gggggggg!!ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg:gggg:ggqq5gggL?ge]I?gST["%"(~150~0~~3Tiagololz
+gggg(gggg(gggg(gggg(gggggggggggggggggggggggggggggggggggggggggggggggggpggggp:gggp:gggp5gggL?ge]I?gST["%"(~150~0~~4Tiagololz
+gggg`gggg`gggg`gggg`ggggggggggggggggggggggggggggggggggggggggggggggggggggggh:gggh:gggh5gggM?ge]I?gST["%"(~150~0~~3Tiagololz
+gagggga+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:hgg`5hqgE?ge]I?gST[%"$(~178~0~~0Tiagololz
+gg1gggg+1ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:gpg`5gqpE?ge]I?gST[%"$(~178~0~~3? Akolom
+ggaggggagggg+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ghg`:ghg`5gqgE?ge]I?gST[%"$(~178~0~~5? Akolom
+gg1gggg1ggga1ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:gpg`5gpgE?hn]I?gST[%"$(~178~0~~2? Akolom
+gaggggagggg+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:ggg`5hggE?he]I?qST[%"$(~178~0~~2? Akolom
+ggIgggdLggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:gqg`:hpg`5aggE?ae]I"$'(~312~1~SINGLE (+100)~0? Akolom
+ggdLgggIggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:ghp`5aqgE?ae]I"$'(~312~1~~3Tiagololz
+ggdggggdLggggLggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ghg`:ghp`5agpE?ae]I"$'(~312~1~~4Tiagololz
+gggggggdLgggIgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:ghp`5aqgE?ae]I"$'(~312~1~~4Tiagololz
+ggggggggIgggdLggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:ggq`5ahpE?ae]I"$'(~312~1~~3Tiagololz
+ggggggggdLgggIggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:gghi5agqE?ae]I"$'(~312~1~~3Tiagololz
+gagggga+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:hgg`:hqdE5agIE?ae]I$'&(~344~1~~0Tiagololz
+gg1gggg1ggga1ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpg`:gpg`:hpdE5agIE?ae]I$'&(~344~1~~5? Akolom
+gagggga+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:hgg`:hqdE5agIE?ae]I$'&(~344~1~~4? Akolom
+gg+gggg1gggg1gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:gqdE5apIE?an]I$'&(~344~1~~4? Akolom
+ga1gggaggggagggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpg`:hgg`:hgdE5agIE?ae]I$'&(~344~1~~2? Akolom
+g+gggg1gggg1ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:qgdE5jgIE?je]I$'&(~344~1~~2? Akolom
+gg?gggg?ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:+qdE5+qIE?+e]I'&!(~378~1~~0? Akolom
+gcCgggcCgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpg`:hpg`:+gdE5+gIE?+e]I'&!(~378~1~~2Tiagololz
+gg?gggg?ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ggg`:+qdE5+qIE?+e]I'&!(~378~1~~3Tiagololz
+ggcCgggcCgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg`:ghp`:+hmE5+gIE?+e]I'&!(~378~1~~3Tiagololz
+ggg?gggg?gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggq`:ggq`:+gdE5+gIE?+e]I'&!(~378~1~~3Tiagololz
+gggcCgggcCgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghi:gghi:+gdE5+gIE?+e]I'&!(~378~1~~3Tiagololz
+gf^gggg]ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggc<:hpc<:+qdE5+gIE?+e]I&!#(~408~1~~0Tiagololz
+gg^gggf^gggfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggghpc<:hgc<:+gdE5+gIE?+e]I&!#(~408~1~~5? Akolom
+ggfgggg]gggg^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggc<:ggc<:+hdE5+qIE?+n]I&!#(~408~1~~3? Akolom
+ggUgggeSgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpc<:hqc<:+fdE!#&(~742~3~DOUBLE (+300)~0? Akolom
+ggUggggSggggUggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpc<:gqc<:+odE!#&(~742~3~~4Tiagololz
+geggggeUgggeggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghgggghpc<:hgc<:+fdE!#&(~742~3~~2Tiagololz
+gUggggSggggUgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggggqgc<:pgc<:+fdE!#&(~742~3~~2Tiagololz
+eggggeUgggegggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghggc<;pgc<;+fdE!#&(~742~3~~2Tiagololz
+gggggg`!(ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggeggc<8Vql<8+fdE#&'(~776~3~~0Tiagololz
+ggbgggb5gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggeghc<8Vqc<8+fdE&'!!~776~3~~6? Akolom
+ggg:ggg5:ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggeggl<8Uql<8+fdE&'!!~776~3~~3? Akolom
+gg5ggggbggggbgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggqggeghc<8Uhc<8+fdE&'!!~776~3~~5? Akolom
+ggggggg5:ggg:ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggeggc<8Uql<8+odE&'!!~776~3~~5? Akolom
+ggUgggeSggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggehqc<8U56<8+9dE'!"!~810~3~~0? Akolom
+ggUgggeUggggUggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggghpggegpc<8U56<8+9dE'!"!~810~3~~5Tiagololz
+geggggSggggeggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghgggeqgc<8V56<8+9dE'!"!~810~3~~2Tiagololz
+gf^gggg]ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghpgggeqggeSgc<8+9dE!"#!~942~4~SINGLE (+100)~0Tiagololz
+ggfgggg]gggg^ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghgggeqggeSpc<8+9dE!"#!~942~4~~4? Akolom
+gg^gggf^gggfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggghpggghggggegggeSgc<8+9dE!"#!~942~4~~2? Akolom
+gfgggg]gggg^gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghggggqggggngggeSgc<8+9dE!"#!~942~4~~2? Akolom
+g^gggf^gggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggpggghpggghegggeSgc<8+9dE!"#!~942~4~~2? Akolom
+fgggg]gggg^ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghggggqegggnSgc<8+9dE!"#!~942~4~~2? Akolom
+gggggg`!(gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfhqpg]eggg\Sgc<8+9dE"#%!~974~4~~0? Akolom
